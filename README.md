@@ -12,4 +12,14 @@ Essa é a nossa atividade final da disciplina Ambientes de Desenvolvimento de So
 
 Depois que todo mundo concluir a atividade, eu vou pegar as screenshots, os nomes dos integrantes, etc. e enviar o pdf no AVA. Basta uma pessoa fazer isso, então vocês não precisam se preocupar, mas todos tem que entrar no grupo do AVA.
 
+## Comandos de terminal
+- `git clone https://github.com/jonathashnr/atividade-final-amb-des.git`
+- `git pull`
+- `git status`
+- `git add <arquivo>`
+- `git add .`
+- `git commit -m <mensagem>`
+- `git push origin main`
+
 ## Integrantes da Equipe
+- Jonathas Henrique Nascimento Rodrigues (2213854)
