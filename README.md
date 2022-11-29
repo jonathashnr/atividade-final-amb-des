@@ -1,18 +1,15 @@
-## Getting Started
+## AMBIENTES DE DESENVOLVIMENTO DE SOFTWARE - Atividade Final
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Essa é a nossa atividade final da disciplina Ambientes de Desenvolvimento de Software. No diretório raiz desse projeto eu coloquei o pdf com a proposta de atividade pra ajudar a nos guiar, mas a atividade em si é simples. Vou deixar um passo a passo pra ajudar os colegas.
 
-## Folder Structure
+1. Baixe, instale e configure VSCode e Git.
+2. Baixe esse repositório na sua máquina pelo método de sua preferencia, eu sugiro o `git clone`.
+3. Implemente dois métodos da classe Calculadora. Basta ir no arquivo `Calculadora.java` no diretório `/src`, "descomentar" dois dos métodos e implementá-los. Faça o _commit_ dessas alterações.
+4. Implemente duas classes novas que usam métodos da classe calculadora. Basta ir no diretório `/src` e criar novos arquivos com novas classes que utilizam algum método, pode ser algo bem simples. Depois de criar os arquivos e classes não esqueça de fazer um novo _commit_ explicando as alterações.
+5. Bata uma screenshot do seu VSCode ou IDE e salve no diretório `/screenshots`. Não se esqueça de fazer o _commit_.
+6. Edite esse arquivo `README.md`, colocando seu nome e matrícula na seção "Integrantes da Equipe". Faça um _commit_ pra essa alteração.
+7. Faça o _push_ de todas essas alterações para o GitHub.
 
-The workspace contains two folders by default, where:
+Depois que todo mundo concluir a atividade, eu vou pegar as screenshots, os nomes dos integrantes, etc. e enviar o pdf no AVA. Basta uma pessoa fazer isso, então vocês não precisam se preocupar, mas todos tem que entrar no grupo do AVA.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Integrantes da Equipe
