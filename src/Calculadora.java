@@ -1,8 +1,14 @@
 import java.lang.Math;
 
 public class Calculadora {
-  //public double soma(double parcelaA, double parcelaB) {}
-  //public double subtracao(double minuendo, double subtraendo) {}
+  public double soma(double parcelaA, double parcelaB) {
+    return parcelaA + parcelaB;
+  }
+
+  public double subtracao(double minuendo, double subtraendo) {
+    return minuendo - subtraendo;
+  }
+
 
   public double multiplicacao(double fatorA, double fatorB) {
     return fatorA*fatorB;

@@ -23,4 +23,5 @@ Depois que todo mundo concluir a atividade, eu vou pegar as screenshots, os nome
 
 ## Integrantes da Equipe
 - Jonathas Henrique Nascimento Rodrigues (2213854)
+- Caio Moretti de Macedo (2213905)
 - Eliabe Monteiro do Nascimento (2213953)
