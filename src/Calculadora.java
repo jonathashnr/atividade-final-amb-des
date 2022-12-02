@@ -25,6 +25,14 @@ public class Calculadora {
   public double raizQuadrada(double radicando) {
     return Math.sqrt(radicando);
   }
+
+  public double piso(double num) {
+      return Math.floor(num);
+  }
+
+  public double teto(double num) {
+      return Math.ceil(num);
+  }
   //public double piso(double num) {}
   //public double teto(double num) {}
 }
